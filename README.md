@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Denis Poczęty (@Deniorrr)
-- 👀 I’m interested in Web development and software engineering
-- 🌱 I’m currently learning Angular JS
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning ReactJS
+- :electron: My latest and biggest project is Rubics-Timer
