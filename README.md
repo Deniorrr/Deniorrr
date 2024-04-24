@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Denis Poczęty (@Deniorrr)
-- 👀 I’m interested in web dev, especially React and Node.js
-- 🕹️ I also enjoy doing random stuff like creating mods for games
+- 👀 I’m interested in web dev, especially React JS, Node.js and Socket.IO
+- 🕹️ I also enjoy doing random programming stuff like creating mods for games
