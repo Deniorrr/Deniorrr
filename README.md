@@ -1,6 +1,6 @@
 # Hi, I'm Denis Poczęty👋
 
-I'm a Computer Science graduate (BSc) currently pursuing my Master's degree.  
+I hold an Engineering degree in Computer Science, currently pursuing my Master's degree.  
 I mainly focus on **fullstack web development**, but I also enjoy working on **game development** and experimenting with **machine learning**.
 Furthermore I'm a musician. I also enjoy working out.
 
